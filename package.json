@@ -1,5 +1,5 @@
 {
-  "name": "ts-101",
+  "name": "c",
   "version": "1.0.0",
   "description": "TypeScript 101",
   "main": "index.js",
@@ -15,5 +15,14 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.6.2"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naylalex/typescript-introduction-Mute163.git"
+  },
+  "bugs": {
+    "url": "https://github.com/naylalex/typescript-introduction-Mute163/issues"
+  },
+  "homepage": "https://github.com/naylalex/typescript-introduction-Mute163#readme"
 }
